@@ -1,3 +1,4 @@
+<?php
 // * Jours fériés
 //  @author Maxime Chevasson
 //  @param  $timestamp  Timestamp unix de la date à tester
@@ -110,3 +111,4 @@ function isJourFerieEnFrance($timestamp) {
 
     return false;
 }
+?>
